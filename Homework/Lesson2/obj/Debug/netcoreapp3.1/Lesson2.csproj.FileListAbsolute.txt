@@ -1,0 +1,14 @@
+C:\Homework\Homework\Lesson2\bin\Debug\netcoreapp3.1\Lesson2.exe
+C:\Homework\Homework\Lesson2\bin\Debug\netcoreapp3.1\Lesson2.deps.json
+C:\Homework\Homework\Lesson2\bin\Debug\netcoreapp3.1\Lesson2.runtimeconfig.json
+C:\Homework\Homework\Lesson2\bin\Debug\netcoreapp3.1\Lesson2.runtimeconfig.dev.json
+C:\Homework\Homework\Lesson2\bin\Debug\netcoreapp3.1\Lesson2.dll
+C:\Homework\Homework\Lesson2\bin\Debug\netcoreapp3.1\Lesson2.pdb
+C:\Homework\Homework\Lesson2\obj\Debug\netcoreapp3.1\Lesson2.csproj.AssemblyReference.cache
+C:\Homework\Homework\Lesson2\obj\Debug\netcoreapp3.1\Lesson2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Homework\Homework\Lesson2\obj\Debug\netcoreapp3.1\Lesson2.AssemblyInfoInputs.cache
+C:\Homework\Homework\Lesson2\obj\Debug\netcoreapp3.1\Lesson2.AssemblyInfo.cs
+C:\Homework\Homework\Lesson2\obj\Debug\netcoreapp3.1\Lesson2.csproj.CoreCompileInputs.cache
+C:\Homework\Homework\Lesson2\obj\Debug\netcoreapp3.1\Lesson2.dll
+C:\Homework\Homework\Lesson2\obj\Debug\netcoreapp3.1\Lesson2.pdb
+C:\Homework\Homework\Lesson2\obj\Debug\netcoreapp3.1\Lesson2.genruntimeconfig.cache
